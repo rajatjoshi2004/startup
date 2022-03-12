@@ -1,0 +1,48 @@
+
+html{
+	
+	background-image:url(https://coffreduludiste.be/wp-content/uploads/2020/06/Logo_JAIPUR.png)no repeat center center fixed;
+	background-size: cover;
+	-webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+  
+   
+
+	font-family:'Syne Mono', monospace;;
+}
+
+h1{
+	font-family: fantasy;
+	font-variant: !important;
+	text-align: center;
+	color: rgb(75, 25, 30);
+}
+
+.btn{
+	border-radius: 20px;
+	font-weight: 1000;
+	text-transform: uppercase;
+
+size: x-large;
+
+	background-color: #f05f44;
+	border-color: #f05f44;
+	text-align: center;
+}
+.btn:hover{
+	background-color:rgb(100,350, 0);
+	border-color: rgb(100,350, 0);
+	border-width: 4px;
+
+}
+hr{
+	border-width: 4px;
+	border-color:#f05f44 ;
+	max-width:65px;
+	
+}
+.container{
+	text-align: center;
+
+}
